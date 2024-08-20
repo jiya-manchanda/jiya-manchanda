@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiya-manchanda
 - 👀 I’m interested in symbolic systems and education technology
-- 🌱 I’m currently learning Python, Java, and R.
+- 🌱 I’m currently working on Python, Java, HTML, CSS, Javascript, and R.
 - 💞️ I’m looking to collaborate on open source GPT models
 - 📫 How to reach me: jiyamanchanda.projects@gmail.com
 - 😄 Pronouns: she/her/hers
