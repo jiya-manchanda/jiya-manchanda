@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source programs to support students in academic research or further research in cognitive science. 
 - 📫 How to reach me: jiyamanchanda.projects@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I cite sources on Wikipedia!
+- ⚡ Fun fact: I cite sources on Wikipedia and label images to train AI datasets on the Amazon Mechanical Turk!
 
 <!---
 jiya-manchanda/jiya-manchanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
