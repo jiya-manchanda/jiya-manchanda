@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiya-manchanda
-- 👀 I’m interested in education technology!
-- 🌱 I’m proficient in Python, Java, HTML, CSS, Javascript, Three.js, and R; currently learning more frameworks.
+- 👀 I’m interested in philosophy, cognitive science, and logic, especially as they relate to artificial intelligence!
+- 🌱 I’m proficient in Python, Java, HTML, CSS, Javascript, and R; currently learning more frameworks.
 - 💞️ I’m looking to collaborate on open source projects or further research in cognitive science. 
 - 📫 How to reach me: jiyamanchanda.projects@gmail.com
 - 😄 Pronouns: she/her/hers
